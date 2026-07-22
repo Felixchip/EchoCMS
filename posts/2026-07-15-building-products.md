@@ -2,7 +2,7 @@
 title: "Building Products That Feel Inevitable"
 date: 2026-07-15T10:00:00.000Z
 featured: true
-image: /uploads/featured-launch.jpg
+image: https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1200&q=80
 summary: "The best products don't feel designed. They feel like they were always meant to exist."
 ---
 

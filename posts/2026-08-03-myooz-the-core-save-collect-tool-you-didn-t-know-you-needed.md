@@ -2,6 +2,7 @@
 title: "Myooz: The Core Save/Collect Tool You Didn't Know You Needed"
 date: 2026-08-03T01:42:06.571Z
 featured: false
+product: myooz
 image: https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80
 summary: "Myooz is a curated design inspiration collector platform where designers browse, save, and organize visual work from creatives worldwide, a single, streamlined design reference manager that replaces scattered browser tabs and lost screenshots with purposeful curation."
 ---

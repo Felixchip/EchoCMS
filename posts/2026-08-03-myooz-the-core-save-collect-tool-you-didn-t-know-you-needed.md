@@ -3,7 +3,7 @@ title: "Myooz: The Core Save/Collect Tool You Didn't Know You Needed"
 date: 2026-08-03T01:42:06.571Z
 featured: false
 image: https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80
-summary: "Myooz is a curated design inspiration collector platform where designers browse, save, and organize visual work from creatives worldwide—a single, streamlined design reference manager that replaces scattered browser tabs and lost screenshots with purposeful curation."
+summary: "Myooz is a curated design inspiration collector platform where designers browse, save, and organize visual work from creatives worldwide, a single, streamlined design reference manager that replaces scattered browser tabs and lost screenshots with purposeful curation."
 ---
 
 ## What Is a Design Inspiration Collector, Really?
@@ -54,4 +54,5 @@ The platform solves the "save design inspiration" problem holistically, discover
 If your creative workflow involves more than one project, more than one client, or more than one aesthetic direction, you need a dedicated design reference manager. Myooz offers that clarity, curated discovery, purposeful saving, and collections that evolve with your creative voice.
 
 Stop losing references to forgotten tabs and overflowing camera rolls. Visit [Myooz](https://myooz.cc) and start building the visual library your best work deserves.
+
 
